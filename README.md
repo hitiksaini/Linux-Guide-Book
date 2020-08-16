@@ -1,5 +1,5 @@
 # Linux Guide Book 
-This repo is dedicated to Linux OS and I will try to share all that I know about using Linux in this repo as a reference but first let's know a little about it.
+This repo is dedicated to Linux OS.
 
 
 ## What is [Linux](https://www.linux.org/)
