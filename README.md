@@ -8,13 +8,13 @@ Linux is a family of open source Unix-like operating systems based on the Linux 
 ## User interface
 The user interface, also known as the shell, is either a command-line interface (CLI), a graphical user interface (GUI), or controls attached to the associated hardware, which is common for embedded systems. For desktop systems, the default user interface is usually graphical, although the CLI is commonly available through terminal emulator windows or on a separate virtual console.
 
-## Why Linux ?
+### Why Linux ?
 The primary difference between Linux and many other popular contemporary operating systems is that the Linux kernel and other components are free and open-source software.
 
-# How to use it
+### How to use it
 This repo is updated constantly and if there is anything specific that you are facing difficulty with in Linux you can create pull request for the same.
 
-# Resources
+### Resources
 I came across an excellent opensource project related to this project: [Check it out](https://linuxjourney.com/)
-# Caution!:
+### Caution!:
 Modifying system properties is destructive, and can lead to loss of data. Not good! Remember to always backup your data before modifying anything on a live system.
