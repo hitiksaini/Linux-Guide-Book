@@ -1,4 +1,4 @@
-## `Email a random XKCD challenge`
+## Email a random XKCD challenge
 This assignment is a part of rtCamp Campus placement drive at Chandigarh University. Though I have never worked in PHP but I'll apply my web dev skills to this project and see how it goes!
 
 ### `Statement`
@@ -24,6 +24,3 @@ I've divided the challenge in 3 main sections :
 ### `Resources`
 I have used [stackoverflow](https://stackoverflow.com/) a lot! As mentioned above PHP is new to me so I referenced everything before doing. 
 Other than this, [PHPmailer](https://github.com/PHPMailer/PHPMailer) is used to send mails(would have used mail() inbuilt fn but I encountered an issue with it while hosting the project online therefore used it.
-
-
-### Note: Check `spam/junk` folder, if you do not see the mail in your inbox :)
