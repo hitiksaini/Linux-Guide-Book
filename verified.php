@@ -46,8 +46,8 @@ echo "<h2>Full version</h2><a href=\"{$comic->url}\">{$comic->url}</a>";
             $mail->isSMTP();
             $mail->Host       = 'smtp.gmail.com';
             $mail->SMTPAuth   = true;
-            $mail->Username   = 'demooo404@gmail.com';
-            $mail->Password   = 'DEMo1234';
+            $mail->Username   = '-----@gmail.com';
+            $mail->Password   = '----';
             $mail->SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS;
             $mail->Port       = 587;
 
